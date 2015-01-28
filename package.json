@@ -2,7 +2,7 @@
   "name": "nodebb-plugin-youtube-lite",
   "version": "0.3.2",
   "nbbpm": {
-        "compatibility": "^0.6.0"
+    "compatibility": "^0.6.0"
   },
   "description": "NodeBB Youtube Lite Plugin",
   "main": "library.js",
